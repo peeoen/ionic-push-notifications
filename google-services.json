@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "389575909358",
+    "firebase_url": "https://work-medium.firebaseio.com",
+    "project_id": "work-medium",
+    "storage_bucket": "work-medium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389575909358:android:83ad7621ccc1b2a1",
+        "android_client_info": {
+          "package_name": "com.workmedium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389575909358-vkdrqj1049k07mvht2i8quf0vlnuetjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSXqfrfLXdFku4A3eQ7SP4Dddap6qaWj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
