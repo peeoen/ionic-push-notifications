@@ -1,0 +1,7 @@
+{
+  "name": "ionPush",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
